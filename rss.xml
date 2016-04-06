@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Official Web Site Of Musician and Producer - Barry Mutch]]></title>
+        <description><![CDATA[The Official Web Site Of Musician and Producer - Barry Mutch]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 16:45:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/043888ee-2ec6-4279-870e-1aea6789f78b.jpg" alt="The day after..." title="" />]]></description>
+            <link>undefineda79d03fe-9ae3-45f6-9adf-8b3c1d92984d/index.html</link>
+            <guid isPermaLink="false">a79d03fe-9ae3-45f6-9adf-8b3c1d92984d</guid>
+            <pubDate>Wed, 06 Apr 2016 16:45:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
