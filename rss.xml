@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Official Web Site Of Musician and Producer - Barry Mutch]]></title>
         <description><![CDATA[The Official Web Site Of Musician and Producer - Barry Mutch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.barrymutch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 16:45:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 16:56:05 GMT</lastBuildDate>
+        <atom:link href="http://www.barrymutch.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/043888ee-2ec6-4279-870e-1aea6789f78b.jpg" alt="The day after..." title="" />]]></description>
-            <link>undefineda79d03fe-9ae3-45f6-9adf-8b3c1d92984d/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/862ffe95542ca28cbce5b516618bcff584530d54.jpg" alt="The day after..." title="">]]></description>
+            <link>http://www.barrymutch.com/a79d03fe-9ae3-45f6-9adf-8b3c1d92984d/index.html</link>
             <guid isPermaLink="false">a79d03fe-9ae3-45f6-9adf-8b3c1d92984d</guid>
-            <pubDate>Wed, 06 Apr 2016 16:45:26 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 16:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
