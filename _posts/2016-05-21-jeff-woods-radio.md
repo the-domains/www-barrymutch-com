@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hey guys,'
-datePublished: '2016-05-21T17:56:21.472Z'
-dateModified: '2016-05-21T17:56:20.418Z'
+datePublished: '2016-05-21T19:52:30.576Z'
+dateModified: '2016-05-21T19:52:27.895Z'
 title: Jeff Woods Radio
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-21-jeff-woods-radio.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-05-21-jeff-woods-radio.md
 url: jeff-woods-radio/index.html
 _type: Article
 
