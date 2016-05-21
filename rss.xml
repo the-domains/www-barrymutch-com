@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[www.barrymutch.com]]></title>
         <description><![CDATA[www.barrymutch.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.barrymutch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 17:56:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 19:52:44 GMT</lastBuildDate>
+        <atom:link href="http://www.barrymutch.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jeff Woods Radio]]></title>
             <description><![CDATA[<article><h1>Jeff Woods Radio</h1><p>Hey guys,</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e196ad14-108e-4103-a540-6bc2ff8c74f2.jpg"></article>]]></description>
-            <link>undefinedjeff-woods-radio/index.html</link>
+            <link>http://www.barrymutch.com/jeff-woods-radio/index.html</link>
             <guid isPermaLink="false">17d2b573-ebf0-4280-983b-db0e461b9371</guid>
-            <pubDate>Sat, 21 May 2016 17:56:21 GMT</pubDate>
+            <pubDate>Sat, 21 May 2016 19:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
