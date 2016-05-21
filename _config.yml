@@ -1,7 +1,7 @@
 name: www.barrymutch.com
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.26961
+typography_spectrum: 1
 title: www.barrymutch.com
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fff0fb'
-    - '#ff86ff'
-    - '#664d82'
-    - '#b244bc'
+    - '#ffffff'
+    - '#131313'
+    - '#fe9792'
+    - '#70c9e9'
+    - '#3e5773'
   brandStrength: 1
   lightness: 0.5
   saturation: 0.5
