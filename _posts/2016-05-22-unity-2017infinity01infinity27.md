@@ -5,10 +5,10 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: Unity 2017∞01∞27...
-datePublished: '2016-05-22T23:35:58.255Z'
-dateModified: '2016-05-22T23:35:54.542Z'
-title: ''
+description: ''
+datePublished: '2016-05-22T23:38:10.459Z'
+dateModified: '2016-05-22T23:38:07.537Z'
+title: Unity 01∞27∞17
 author:
   - name: ''
     url: ''
@@ -19,5 +19,5 @@ starred: false
 _type: Blurb
 
 ---
-Unity 2017∞01∞27...
+# Unity 01∞27∞17
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de6ecb267c3d1f239f26f7a0156671026e8dfa51.jpg)
