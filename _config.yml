@@ -1,7 +1,7 @@
 name: www.barrymutch.com
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.5310633
+layout_spectrum: 0.25459
+typography_spectrum: 0.12538
 title: www.barrymutch.com
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#9b52bb'
     - '#3f115a'
     - '#868688'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0
   saturation: 0.5
-  rhythmicContrast: 0.0005973533
+  rhythmicContrast: 0.5
 purpose: []
