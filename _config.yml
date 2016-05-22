@@ -1,29 +1,41 @@
-name: www.barrymutch.com
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.52671
 title: www.barrymutch.com
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.09498204
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#32508C'
+    - '#E7D4C3'
+    - '#5479AD'
+    - '#0F0D12'
+    - '#8B5C4C'
+  rhythmicContrast: 0.0005973533
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: www.barrymutch.com
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#131313'
-    - '#fe9792'
-    - '#70c9e9'
-    - '#3e5773'
-  brandStrength: 0.5
-  lightness: 0.9375
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.5310633
+layout_spectrum: 0.7019116
