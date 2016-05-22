@@ -2,7 +2,7 @@ name: www.barrymutch.com
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.05192
-title: www.barrymutch.com
+title: Barry Mutch
 collections:
   - index:
       path: /
