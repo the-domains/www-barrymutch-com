@@ -1,4 +1,4 @@
-name: www.barrymutch.com
+name: Barry Mutch
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.10201
@@ -34,8 +34,8 @@ color:
     - '#9b52bb'
     - '#3f115a'
     - '#868688'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
