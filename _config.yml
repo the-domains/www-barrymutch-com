@@ -1,7 +1,7 @@
 name: Barry Mutch
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.10201
+typography_spectrum: 0.52104
 title: Barry Mutch
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000004'
-    - '#e3e3e3'
-    - '#9b52bb'
-    - '#3f115a'
-    - '#868688'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+    - '#767676'
+    - '#050505'
+    - '#505050'
+    - '#2d2f2e'
+    - '#bcbcbc'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
