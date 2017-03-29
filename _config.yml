@@ -1,41 +1,75 @@
 name: Barry Mutch
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.52104
-title: Barry Mutch
+analytics: {}
+purpose:
+  - type: external
+    url: 'https://www.paypal.me/BarryMutchMusic/13'
+    label: >-
+      Support the recording of Unity by pre-purchasing your digital download in
+      advance!  Thank you for your support!
+github: true
+description: Unity - The Debut Album
+author:
+  name: Barry Mutch
+  url: 'http://www.barrymutch.com'
+  email: barry@barrymutch.com
+cta:
+  bucket: null
+  version: null
+  domain: null
+color:
+  lightness: 0.05482796633496217
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  saturation: 0.6193047166575152
+  brandStrength: 0.001021564398698583
+  rhythmicContrast: 0.2814975882702425
+layout_spectrum: 0.446192039758299
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#767676'
-    - '#050505'
-    - '#505050'
-    - '#2d2f2e'
-    - '#bcbcbc'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43511d91-1f82-43d6-b24c-51a5964b0efd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/43511d91-1f82-43d6-b24c-51a5964b0efd.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+content_rating:
+  adult: false
+typography_spectrum: 0.7450471460649578
+coverPrefs:
+  filter: false
+title: Unity - The Debut Album By Barry Mutch
+opengraph: {}
+url: 'http://barrymutch.com'
