@@ -1,20 +1,22 @@
-typography_spectrum: 0.7450471460649578
-content_rating:
-  adult: false
+layout_spectrum: 0.44915751536376775
+typography_spectrum: 0.5514663650631204
 color:
-  lightness: 0.05482796633496217
+  lightness: 0.05796248543417395
   brandColors:
     - '#595241'
     - '#B8AE9C'
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
-  saturation: 0.6193047166575152
-  brandStrength: 0.001021564398698583
-  rhythmicContrast: 0.2814975882702425
+  saturation: 0.615656863837088
+  brandStrength: 0.007008194365529435
+  rhythmicContrast: 0.2862810361643534
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.446192039758299
 analytics: {}
 author:
   name: Barry Mutch
@@ -71,8 +73,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: The Debut Album "Unity"
 purpose:
   - type: external
