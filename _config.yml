@@ -39,31 +39,7 @@ collections:
     permalink:
       path: '/:title/'
 title: www.barrymutch.com
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43511d91-1f82-43d6-b24c-51a5964b0efd.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/43511d91-1f82-43d6-b24c-51a5964b0efd.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 coverPrefs:
   filter: false
 description: THE HOME OF MUSICIAN - BARRY MUTCH
