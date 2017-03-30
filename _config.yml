@@ -1,6 +1,21 @@
-typography_spectrum: 0.7450471460649578
-content_rating:
-  adult: false
+name: Barry Mutch
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://paypal.me/BarryMutchMusic/13'
+    label: >-
+      Support The Recording Of Unity - The Album By Pre-Purchasing your digital
+      copy today!
+github: true
+description: Currently recording the debut album "Unity
+cta:
+  bucket: null
+  version: null
+  domain: null
+author:
+  name: Barry Mutch
+  url: 'http://www.barrymutch.com'
+  email: barry@barrymutch.com
 color:
   lightness: 0.05482796633496217
   brandColors:
@@ -12,33 +27,19 @@ color:
   saturation: 0.6193047166575152
   brandStrength: 0.001021564398698583
   rhythmicContrast: 0.2814975882702425
-github: true
-opengraph: {}
 layout_spectrum: 0.446192039758299
-analytics: {}
-author:
-  name: Barry Mutch
-  url: 'http://www.barrymutch.com'
-  email: barry@barrymutch.com
-name: Barry Mutch
-url: 'http://barrymutch.com'
-cta:
-  bucket: null
-  version: null
-  domain: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: www.barrymutch.com
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -49,28 +50,26 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/45693943-404c-4a29-a44e-aa8ea408e6c1.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+content_rating:
+  adult: false
+typography_spectrum: 0.7450471460649578
 coverPrefs:
   filter: false
-description: THE HOME OF MUSICIAN - BARRY MUTCH
-purpose:
-  - type: external
-    url: 'http://paypal.me/BarryMutchMusic/13'
-    label: >-
-      Support The Recording Of Unity - The Album By Pre-Purchasing your digital
-      copy today!
+title: BARRY MUTCH
+opengraph: {}
+url: 'http://barrymutch.com'
