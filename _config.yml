@@ -67,4 +67,9 @@ content:
 coverPrefs:
   filter: false
 description: THE HOME OF MUSICIAN - BARRY MUTCH
-purpose: []
+purpose:
+  - type: external
+    url: 'http://paypal.me/BarryMutchMusic/13'
+    label: >-
+      Support The Recording Of Unity - The Album By Pre-Purchasing your digital
+      copy today!
