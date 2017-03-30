@@ -71,7 +71,6 @@ content:
         Disturbed performs a track from their album Immortalized. More CONAN @
         http://teamcoco.com/video Team Coco is the official YouTube channel of
         late night host Conan O'Brien, CONAN on TBS & TeamCoco.com.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=Bk7RVw3I8eg&feature=applinks'
@@ -113,6 +112,31 @@ content:
       '@context': 'http://schema.org'
       isBasedOnUrl: 'https://youtu.be/Bk7RVw3I8eg'
       title: Disturbed "The Sound Of Silence" 03/28/16
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45693943-404c-4a29-a44e-aa8ea408e6c1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/45693943-404c-4a29-a44e-aa8ea408e6c1.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
