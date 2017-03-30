@@ -1,21 +1,6 @@
-name: Barry Mutch
-analytics: {}
-purpose:
-  - type: external
-    url: 'https://www.paypal.me/BarryMutchMusic/13'
-    label: >-
-      Support the recording of Unity by pre-purchasing your digital download in
-      advance!  Thank you for your support!
-github: true
-description: Unity - The Debut Album
-author:
-  name: Barry Mutch
-  url: 'http://www.barrymutch.com'
-  email: barry@barrymutch.com
-cta:
-  bucket: null
-  version: null
-  domain: null
+typography_spectrum: 0.7450471460649578
+content_rating:
+  adult: false
 color:
   lightness: 0.05482796633496217
   brandColors:
@@ -27,7 +12,24 @@ color:
   saturation: 0.6193047166575152
   brandStrength: 0.001021564398698583
   rhythmicContrast: 0.2814975882702425
+github: true
+opengraph: {}
 layout_spectrum: 0.446192039758299
+analytics: {}
+author:
+  name: Barry Mutch
+  url: 'http://www.barrymutch.com'
+  email: barry@barrymutch.com
+name: Barry Mutch
+url: 'http://barrymutch.com'
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Unity - The Debut Album
+    id: 93ddac30-e4cb-4a0c-b4d7-582df753c6d0
+    type: content
 collections:
   - index:
       path: /
@@ -40,6 +42,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Unity - The Debut Album By Barry Mutch
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -49,27 +52,28 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/43511d91-1f82-43d6-b24c-51a5964b0efd.jpg
     metadata:
-      author: []
       datePublished: null
       keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-content_rating:
-  adult: false
-typography_spectrum: 0.7450471460649578
 coverPrefs:
   filter: false
-title: Unity - The Debut Album By Barry Mutch
-opengraph: {}
-url: 'http://barrymutch.com'
+description: Unity - The Debut Album
+purpose:
+  - type: external
+    url: 'https://www.paypal.me/BarryMutchMusic/13'
+    label: >-
+      Support the recording of Unity by pre-purchasing your digital download in
+      advance!  Thank you for your support!
