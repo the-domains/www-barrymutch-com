@@ -27,9 +27,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Unity - The Debut Album
-    id: 93ddac30-e4cb-4a0c-b4d7-582df753c6d0
-    type: content
   - name: Bio
     id: 008b830c-7d1f-4c53-8544-de44630079c1
     type: content
