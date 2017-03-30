@@ -71,9 +71,4 @@ content:
 coverPrefs:
   filter: false
 description: THE ONLINE HOME OF MUSICIAN - BARRY MUTCH
-purpose:
-  - type: external
-    url: 'https://www.paypal.me/BarryMutchMusic/13'
-    label: >-
-      Support the recording of Unity by pre-purchasing your digital download in
-      advance!  Thank you for your support!
+purpose: []
