@@ -28,10 +28,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: Biography
-    id: 008b830c-7d1f-4c53-8544-de44630079c1
-    type: content
 collections:
   - index:
       path: /
