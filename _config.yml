@@ -67,9 +67,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: The online home of Barry Mutch
-purpose:
-  - type: external
-    url: 'http://paypal.me/BarryMutchMusic/133'
-    label: >-
-      Support the recording of Unity by pre-purchasing your limited edition
-      signed heavy weight vinyl and digital download for 133 CHF!
+purpose: []
