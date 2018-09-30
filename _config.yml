@@ -20,10 +20,10 @@ opengraph: {}
 analytics: {}
 author:
   name: Barry Mutch
-  url: 'http://www.barrymutch.com'
+  url: 'https://www.barrymutch.com'
   email: barry@barrymutch.com
 name: Barry Mutch
-url: 'http://barrymutch.com'
+url: 'https://www.barrymutch.com/'
 cta:
   bucket: null
   version: null
