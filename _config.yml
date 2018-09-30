@@ -67,4 +67,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: The online home of Barry Mutch
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:0041762420010'
+    label: Phone 00(41)76-242-0010
