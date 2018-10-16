@@ -40,7 +40,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Barry Mutch - Official Home Page
+title: Barry Mutch Media And Entertainment
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
