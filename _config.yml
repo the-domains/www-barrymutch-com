@@ -67,7 +67,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ∞…LIVING SINCE 1973?...∞…MUSIC LICENCING AND PUBLISHING SINCE 1793?...∞
-purpose:
-  - type: contact
-    url: 'mailto:info@barrymutch.com'
-    label: Contact
+purpose: []
